@@ -1,6 +1,21 @@
 # MATLAB_Gantt_Chart
+Introduction to Gantt charts
 
+A Gantt chart is a type of bar chart that illustrates a project schedule. It shows the start and end dates of tasks, as well as their duration and dependencies. Gantt charts are often used in project management to plan, track, and communicate project schedules.
+
+How Gantt charts are better than line, pie, and bar charts
+
+Line, pie, and bar charts are all useful for visualizing data, but they are not as well-suited for project scheduling as Gantt charts.
+
+Line charts: Line charts are typically used to show trends over time. They are not as well-suited for showing the start and end dates of tasks or their dependencies.
+Pie charts: Pie charts are typically used to show the relative parts of a whole. They are not as well-suited for showing the start and end dates of tasks or their dependencies.
+Bar charts: Bar charts can be used to compare different values. They can also be used to show the start and end dates of tasks, but they are not as well-suited for showing task dependencies as Gantt charts.
+Gantt charts are better than line, pie, and bar charts for project scheduling because they are specifically designed for this purpose. They show the start and end dates of tasks, as well as their duration and dependencies. This makes it easy to see how the tasks in a project fit together and how long the project will take to complete.
+
+%----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
+Here is the MATLAB Script and their implementation via MATLAB. Follow the link for more details
 https://simulationtutor.com/matlab-gantt-chart-a-comprehensive-guide/
+%----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
 
 %% Gantt Chart in MATLAB
 clc,clear all,close all,
